@@ -1,5 +1,7 @@
 # Hi, I'am Thalita!
-Estudante de Desenvolvimento de Sistemas<br>Cursando Desing Digital | Fiap<br>Compartilhando minha jornada e aprendendo com os meu projetos 
+*Estudante de Desenvolvimento de Sistemas*
+*Cursando Desing Digital | Fiap*
+*Compartilhando minha jornada e aprendendo com os meu projetos *
 
 
 ## Socials:
